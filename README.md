@@ -1,7 +1,7 @@
 # WordPress-IllAdvisedFilms
 www.illadvisedfilms.com
 
-Note; this is currently in very early development.  Client initiated, but has not followed up since the basic site was installed.
+**Note; this is currently in very early development.  Client initiated, but has not followed up since the basic site was installed.**
 
 Simple Wordpress install and mod, to clients graphical specifications, for a small independent film company in the UK.  Waiting for them to return...
 
